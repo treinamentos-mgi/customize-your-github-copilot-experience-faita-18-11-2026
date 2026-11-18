@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "searching-algorithms-python",
+      "title": "Searching Algorithms in Python",
+      "description": "Implement and compare linear and binary search in Python lists.",
+      "path": "assignments/searching-algorithms-python",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
